@@ -4,7 +4,7 @@
 
 I'm a **Creative Full-Stack Developer** and **Tech Entrepreneur** based in Ghana 🇬🇭. I specialize in building smart, scalable, and human-centered software products using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and other modern technologies.
 
-I build tools and platforms that solve real problems — from AI-powered systems and voting platforms to inclusive tech solutions and innovative business applications.
+I build tools and platforms that solve real problems — inclusive tech solutions and innovative business applications.
 
 ---
 
@@ -12,7 +12,7 @@ I build tools and platforms that solve real problems — from AI-powered systems
 
 - **Languages:** JavaScript, HTML, CSS, SQL
 - **Frameworks/Libraries:** React, Node.js, Express, Tailwind CSS, Framer Motion, Mongoose
-- **Databases:** MongoDB, Firebase, PostgreSQL
+- **Databases:** MongoDB
 - **Tools:** Git, VS Code, Postman, Figma, Canva, Notion
 - **AI/ML:** OpenAI API, Prompt Engineering
 - **Other:** REST APIs, JWT Auth, Payment APIs, Chatbots
@@ -53,7 +53,7 @@ A zero-waste, sustainable cosmetic product combining tech + agro innovation.
 
 ## 📬 Let's Connect
 
-- 🌐 Personal: https://sobur.netlify.app *(Optional if you have one)*
+- 🌐 Personal: https://sobur.netlify.app *(*
 - 📧 Email: `mohammedasobur0@gmail.com`
 - 💡 Let's collaborate on **software, sustainability,  and inclusive tech**!
 
